@@ -21,13 +21,14 @@ Most of my recent work is private because it belongs to companies, clients, or a
 
 Before Appraiva, I built and led systems across real estate, nonprofit CRM, online education, telecom analytics, and applied machine learning, including Azure data platforms, ETL systems, predictive customer segmentation, GenAI workflows, and cloud-backed product infrastructure.
 
-## Public Repositories
+## Public Surface
 
-This profile keeps only a small public surface. Older academic/demo repositories have been archived so the public profile reflects the work I want to be known for now: AI products, data systems, cloud architecture, and technical leadership.
+This profile keeps a small public surface by design. Legacy academic/demo repositories are private and archived so the public profile reflects the work I want to be known for now: AI products, data systems, cloud architecture, and technical leadership.
+
+For a fuller picture of my work, visit my website or LinkedIn.
 
 ## Links
 
 - Website: [a-samadi.com](https://a-samadi.com/)
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
 - Appraiva: [appraiva.com](https://appraiva.com/)
-
