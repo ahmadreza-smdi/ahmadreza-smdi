@@ -30,3 +30,4 @@ This profile keeps only a small public surface. Older academic/demo repositories
 - Website: [a-samadi.com](https://a-samadi.com/)
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
 - Appraiva: [appraiva.com](https://appraiva.com/)
+
