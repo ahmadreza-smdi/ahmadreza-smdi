@@ -45,3 +45,7 @@ For a fuller picture of my work, visit my website or LinkedIn.
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
 - Appraiva: [appraiva.com](https://appraiva.com/)
 - Royal Abraj Group: [royalabrajgroup.com](https://royalabrajgroup.com/en)
+- YouTube: [@ahmadreza-samadi](https://www.youtube.com/@ahmadreza-samadi)
+- Crunchbase: [Ahmadreza Samadi](https://www.crunchbase.com/person/ahmadreza-samadi)
+- [Biography and official profiles](https://a-samadi.com/about.html#official-profiles)
+- [معرفی احمدرضا صمدی به فارسی](https://a-samadi.com/fa/)
