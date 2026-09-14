@@ -38,6 +38,12 @@ This profile keeps a small public surface by design. Legacy academic/demo reposi
 For a fuller picture of my work, visit my website or LinkedIn.
 
 
+## Selected work
+
+- [My work at Appraiva: AI real estate intelligence](https://a-samadi.com/work/appraiva.html)
+- [My work at Royal Abraj Group: digital strategy and operations](https://a-samadi.com/work/royal-abraj.html)
+- [Oxfam Novib: a data foundation for CRM and analytics](https://a-samadi.com/work/oxfam-novib.html)
+
 ## Links
 
 
