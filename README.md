@@ -7,7 +7,7 @@ Building AI real estate intelligence systems where product architecture, data sy
 ## Current Focus
 
 
-I lead the technical foundation behind Appraiva, an AI-driven real estate intelligence platform for investors and developers. At Royal Abraj Group, I lead digital strategy across websites, CRM workflows, customer tools, and internal operations for a Dubai-based business spanning property brokerage and documents-clearing services.
+I work remotely as Co-Founder & Technical Lead at Appraiva, a US-based company in Cleveland, Ohio, building an AI-driven real estate intelligence platform for investors and developers. At Royal Abraj Group, I lead digital strategy across websites, CRM workflows, customer tools, and internal operations for a Dubai-based business spanning property brokerage and documents-clearing services.
 
 
 The work spans:
