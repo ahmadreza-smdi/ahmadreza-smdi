@@ -3,15 +3,11 @@
 Co-Founder & Technical Lead at [Appraiva](https://appraiva.com/) · Co-Founder & CEO at [Royal Abraj Group](https://royalabrajgroup.com/en) · Dubai, United Arab Emirates  
 Building AI real estate intelligence systems where product architecture, data systems, AI workflows, and cloud infrastructure meet real business operations.
 
-
 ## Current Focus
-
 
 I work remotely as Co-Founder & Technical Lead at Appraiva, a US-based company in Cleveland, Ohio, building an AI-driven real estate intelligence platform for investors and developers. At Royal Abraj Group, I lead digital strategy across websites, CRM workflows, customer tools, and internal operations for a Dubai-based business spanning property brokerage and documents-clearing services.
 
-
 The work spans:
-
 
 - Product architecture for AI-first real estate workflows
 - Data systems for property discovery, enrichment, search, and opportunity analysis
@@ -19,24 +15,11 @@ The work spans:
 - Cloud infrastructure and backend systems for practical business operations
 - Customer discovery and product execution across technical and business priorities
 
-
 ## Background
 
-
-Most of my recent work is private because it belongs to companies, clients, or active products. Public GitHub activity here is only a partial view of my technical work.
-
+Selected case studies below describe my role in company and client projects whose source code is private.
 
 Before Appraiva, I built and led systems across real estate, nonprofit CRM, online education, telecom analytics, and applied machine learning, including Azure data platforms, ETL systems, predictive customer segmentation, GenAI workflows, and cloud-backed product infrastructure.
-
-
-## Public Surface
-
-
-This profile keeps a small public surface by design. Legacy academic/demo repositories are private and archived so the public profile reflects the work I want to be known for now: AI products, data systems, cloud architecture, technical leadership, and digital strategy.
-
-
-For a fuller picture of my work, visit my website or LinkedIn.
-
 
 ## Selected work
 
@@ -45,7 +28,6 @@ For a fuller picture of my work, visit my website or LinkedIn.
 - [Oxfam Novib: a data foundation for CRM and analytics](https://a-samadi.com/work/oxfam-novib.html)
 
 ## Links
-
 
 - Website: [a-samadi.com](https://a-samadi.com/)
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
