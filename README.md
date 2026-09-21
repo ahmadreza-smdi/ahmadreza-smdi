@@ -29,6 +29,8 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 ## Links
 
+- Instagram: [@ahmadreza_smdi](https://www.instagram.com/ahmadreza_smdi/)
+
 - Website: [a-samadi.com](https://a-samadi.com/)
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
 - Appraiva: [appraiva.com](https://appraiva.com/)
