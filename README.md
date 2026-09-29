@@ -2,7 +2,7 @@
 
 In Persian: [احمدرضا صمدی](https://a-samadi.com/fa/about.html).
 
-Co-Founder & Technical Lead at [Appraiva](https://appraiva.com/) · Co-Founder & CEO at [Royal Abraj Group](https://royalabrajgroup.com/en) · Dubai, United Arab Emirates  
+Technology entrepreneur · Co-Founder & Technical Lead at [Appraiva](https://appraiva.com/) · Co-Founder & CEO at [Royal Abraj Group](https://royalabrajgroup.com/en) · Dubai, United Arab Emirates  
 Building AI real estate intelligence systems where product architecture, data systems, AI workflows, and cloud infrastructure meet real business operations.
 
 ## Current Focus
