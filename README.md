@@ -1,7 +1,5 @@
 # Ahmadreza Samadi
 
-In Persian: [احمدرضا صمدی](https://a-samadi.com/fa/about.html).
-
 Technology entrepreneur · Co-Founder & Technical Lead at [Appraiva](https://appraiva.com/) · Co-Founder & CEO at [Royal Abraj Group](https://royalabrajgroup.com/en) · Dubai, United Arab Emirates  
 Building AI real estate intelligence systems where product architecture, data systems, AI workflows, and cloud infrastructure meet real business operations.
 
@@ -29,6 +27,12 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 - [My work at Royal Abraj Group: digital strategy and operations](https://a-samadi.com/work/royal-abraj.html)
 - [Oxfam Novib: a data foundation for CRM and analytics](https://a-samadi.com/work/oxfam-novib.html)
 
+## Selected tools and writing
+
+- [Before You Build the AI](https://a-samadi.com/tools/before-you-build-ai.html): an interactive field guide for defining a useful decision, reviewing risks and planning a first test.
+- [AI cost per verified result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
+- [Jev: an AI decision model](https://a-samadi.com/writing/jev-ai-decision-model.html): what typed decisions offer and how I would test them.
+
 ## Links
 
 - Instagram: [@ahmadreza_smdi](https://www.instagram.com/ahmadreza_smdi/)
@@ -40,3 +44,5 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 - Royal Abraj Group: [royalabrajgroup.com](https://royalabrajgroup.com/en)
 - YouTube: [@ahmadreza-samadi](https://www.youtube.com/@ahmadreza-samadi)
 - Crunchbase: [Ahmadreza Samadi](https://www.crunchbase.com/person/ahmadreza-samadi)
+
+In Persian: [احمدرضا صمدی](https://a-samadi.com/fa/about.html).
