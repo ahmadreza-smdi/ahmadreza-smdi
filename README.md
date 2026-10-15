@@ -31,6 +31,7 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 - [Before You Build the AI](https://a-samadi.com/tools/before-you-build-ai.html): an interactive field guide for defining a useful decision, reviewing risks and planning a first test.
 - [AI cost per verified result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
+- [AI workflow cost ledger](https://github.com/ahmadreza-smdi/ai-workflow-cost): an offline Python tool that includes retries, failed attempts and review costs, with explicit acceptance criteria and unknown-cost checks.
 - [Jev: an AI decision model](https://a-samadi.com/writing/jev-ai-decision-model.html): what typed decisions offer and how I would test them.
 
 ## Links
