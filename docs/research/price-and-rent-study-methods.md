@@ -2,7 +2,7 @@
 
 By [Ahmadreza Samadi](https://a-samadi.com/about.html). Prepared 17 October 2026.
 
-I am preparing a descriptive study of how nominal house price index growth compares with changes in a published rent benchmark across comparable US metropolitan areas. The study does not yet have a selected comparison horizon or results. This working note explains the proposed method and the choices that still need evidence; it is not a registered preregistration.
+I am preparing a descriptive study of how nominal house price index growth compares with changes in a published rent benchmark across comparable US metropolitan areas. The primary duration is five calendar years; exact endpoint dates, eligible metros and comparison results remain unresolved. This working note explains the proposed method and the choices that still need evidence; it is not a registered preregistration.
 
 The question is about changes in two measures. It does not compare a purchase price and rent for the same property, calculate investment yield or identify the best place to invest.
 
@@ -24,7 +24,16 @@ A complete geographic match would still leave timing, the rent measure and sourc
 
 ## Explain the time alignment explicitly
 
-The comparison horizon and its interpretation must be recorded before calculating growth for the actual comparison. The rent estimate's base period, adjustment or trend period, effective date, revision date and snapshot version are separate facts.
+The primary window decision, recorded on 17 October 2026 before actual price-versus-rent comparisons, is five calendar years. This is an editorial research choice, not an FHFA or HUD recommendation, an optimal horizon or a forecast period.
+
+For a frozen inventory of acquired source files and versions, the selection rule is:
+
+1. Identify comparable two-bedroom metro FMR benchmarks with documented effective dates sharing the same month and day exactly five calendar years apart. Keep base, adjustment or trend, effective and revision dates separate.
+2. Map each effective date explicitly to its containing calendar quarter. Both FHFA quarters must have at least one valid metro observation in the prepared source inventory. This is a source-level screen; each metro still needs both usable price endpoints and all other eligibility checks.
+3. Choose the latest end date that passes source reuse, documented-date and rent-measure comparability reviews. Retain newer unsupported candidates and their reasons. Do not select a period by its growth direction, gap or ranking.
+4. Apply that single window across metros. If no five-year pair qualifies, leave the primary comparison unavailable. There is no shorter-window fallback; any change to this policy must be dated and explained before comparisons under that change.
+
+Pairing a quarterly price index with an effective-date rent benchmark does not align their underlying observation or base periods, or establish that they cover the same housing population.
 
 I will not automatically map a HUD fiscal year to an FHFA quarter or annual average. FHFA's quarterly indexes pool observations within a quarter; they are not quarter-end property prices. A missing requested quarter will not be replaced by the nearest available value. [FHFA HPI FAQ](https://www.fhfa.gov/faqs/hpi).
 
@@ -51,7 +60,7 @@ The prepared matching and arithmetic components do not yet include a raw HUD fil
 
 - The exact HUD files and initial or revised versions at each endpoint.
 - Actual complete geographic matches and any necessary official crosswalk.
-- The time horizon, its interpretation and the selected FHFA quarters.
+- The exact effective-date pair, its interpretation and selected FHFA quarters under the five-year policy.
 - The final rent-measure definition, local exceptions and source-use evidence.
 - The eligible population, exclusion counts and any aggregate summary method.
 
