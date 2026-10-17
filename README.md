@@ -39,6 +39,8 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 - [AI workflow cost ledger](https://github.com/ahmadreza-smdi/ai-workflow-cost): an offline Python tool that includes retries, failed attempts and review costs, with explicit acceptance criteria and unknown-cost checks. [Three fictional worked examples (ZIP)](https://github.com/ahmadreza-smdi/ai-workflow-cost/releases/download/v0.1.2/AI-Cost-Worked-Examples.zip) cover paid failures, no accepted results and explicitly known zero costs.
 - [Jev: an AI decision model](https://a-samadi.com/writing/jev-ai-decision-model.html): what typed decisions offer and how I would test them.
 
+Research in progress: [Price growth and rent benchmarks — working methods](https://github.com/ahmadreza-smdi/ahmadreza-smdi/blob/767cdb9f7b53b16302151b90c41a7e3502673a04/docs/research/price-and-rent-study-methods.md). The primary duration is five calendar years; exact dates, eligible metros and comparison results remain unresolved.
+
 ## Links
 
 - Instagram: [@ahmadreza_smdi](https://www.instagram.com/ahmadreza_smdi/)
