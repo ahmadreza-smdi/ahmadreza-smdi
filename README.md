@@ -31,6 +31,8 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 ## Selected tools and writing
 
+[Selected public work — one-page PDF (English)](https://github.com/ahmadreza-smdi/ahmadreza-smdi/raw/refs/heads/main/docs/Ahmadreza-Samadi-Selected-Public-Work.pdf). Four selected resources with source links and method limits.
+
 - [Metro rent burden: ACS 2024](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/tag/v1.0.0): reproducible point estimates for 386 US metropolitan areas, with raw Census data, CSV, chart and citation metadata. Not-computed units are excluded from the percentage denominator and reported separately; derived percentage margins of error are not calculated. [Excel companion](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/download/v1.1.0/Metro-Rent-Burden-2024.xlsx) contains the same data in a filterable workbook.
 - [Before You Build the AI](https://a-samadi.com/tools/before-you-build-ai.html): an interactive field guide for defining a useful decision, reviewing risks and planning a first test.
 - [AI cost per verified result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
