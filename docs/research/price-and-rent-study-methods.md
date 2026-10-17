@@ -22,6 +22,16 @@ County and county-subdivision units remain distinct. Different geography vintage
 
 A complete geographic match would still leave timing, the rent measure and source reuse to resolve. Prepared FHFA inputs are not evidence that corresponding HUD matches exist.
 
+### Boundary changes to check at each endpoint
+
+HUD's methodology, updated June 2026, describes concrete reasons to check membership rather than carry today's area definition backward:
+
+- New England FMR geography generally uses towns, equivalent to Census county subdivisions. Connecticut's geography changes start with FY 2026: following its switch to planning-region county equivalents, HUD adopted OMB's 2023 metro definitions there.
+- Starting with FY 2025 FMRs, Westchester County became part of the New York HUD Metro FMR Area. The earlier separate rent benchmark cannot simply be treated as unchanged membership.
+- HUD describes several area-code constructions and acknowledges possible historical inconsistencies. A familiar code is useful metadata, not a substitute for endpoint-specific boundary evidence.
+
+These are documented geography changes and methodological cautions, not measured price or rent growth. They do not by themselves establish which metros qualify for the proposed window. [HUD, Calculation of Fair Market Rents, Section II, printed pages 2–3](https://www.huduser.gov/portal/datasets/fmr/fmr2027/FY27-Public-FMR-Methodology.pdf).
+
 ## Explain the time alignment explicitly
 
 The primary window decision, recorded on 17 October 2026 before actual price-versus-rent comparisons, is five calendar years. This is an editorial research choice, not an FHFA or HUD recommendation, an optimal horizon or a forecast period.
