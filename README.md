@@ -5,6 +5,14 @@ I build AI that helps people make better property decisions, and I run a propert
 
 **Start with the decision.**
 
+## Signature ideas
+
+**Start with the Decision** is the series for these ideas and essays:
+
+- **[Start with the decision.](https://a-samadi.com/writing/start-with-the-decision.html)** Name the decision, who makes it, the evidence needed and the next action before choosing a model or tool.
+- **[Where the AI must stop.](https://a-samadi.com/writing/ai-human-review-real-estate.html)** AI prepares; a professional verifies and advises; the client decides.
+- **[Cost per accepted result.](https://a-samadi.com/writing/ai-cost-per-verified-result.html)** Count retries, review and failures against results accepted under a defined rule. With no accepted results, unit cost is undefined.
+
 ## Current Focus
 
 I work remotely as Co-Founder & Technical Lead at Appraiva, a US-based company in Cleveland, Ohio, building an AI-driven real estate intelligence platform for investors and developers. At Royal Abraj Group, I lead digital strategy across websites, CRM workflows, customer tools, and internal operations for a Dubai-based business spanning property brokerage and documents-clearing services.
@@ -31,10 +39,13 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 ## Selected tools and writing
 
+**Property Decision Data** brings together the studies and practical tools below. **Tech, explained** covers the plain-language technology explainers in [my writing](https://a-samadi.com/writing/).
+
 [Start with the question — resource guide (English TXT)](docs/reading/start-with-the-question.txt). Choose among seven published resource groups by the question you need to answer, with a key limit for each.
 
 [Selected public work — one-page PDF (English)](https://github.com/ahmadreza-smdi/ahmadreza-smdi/raw/refs/heads/main/docs/Ahmadreza-Samadi-Selected-Public-Work.pdf). Four selected resources with source links and method limits.
 
+- [Rent and ownership scenarios](https://a-samadi.com/studies/rent-own-2026/): illustrative cash-budget scenarios across 393 metros, using ACS 2024 and HUD FY 2027 inputs. Renter and owner populations differ; these are not observed investment returns.
 - [Metro rent burden: ACS 2024](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/tag/v1.1.1): reproducible point estimates for 386 US metropolitan areas, with raw Census data, CSV, chart and citation metadata. Not-computed units are excluded from the percentage denominator and reported separately; derived percentage margins of error are not calculated. [Excel companion](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/download/v1.1.0/Metro-Rent-Burden-2024.xlsx) contains the same data in a filterable workbook.
 - [Before You Build the AI](https://a-samadi.com/tools/before-you-build-ai.html): an interactive field guide for defining a useful decision, reviewing risks and planning a first test.
 - [AI cost per verified result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
@@ -47,6 +58,7 @@ Research in progress: [Price growth and rent benchmarks — working methods](htt
 
 - Instagram: [@ahmadreza_smdi](https://www.instagram.com/ahmadreza_smdi/)
 - Website: [a-samadi.com](https://a-samadi.com/)
+- Newsletter: [Start with the Decision](https://www.linkedin.com/newsletters/7516204575893393408/)
 - [Writing on AI products, data and PropTech](https://a-samadi.com/writing/)
 - Biography: [English](https://a-samadi.com/about.html) · [فارسی](https://a-samadi.com/fa/about.html) · [العربية](https://a-samadi.com/ar/about.html)
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
