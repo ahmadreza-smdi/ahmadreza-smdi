@@ -32,6 +32,12 @@ HUD's methodology, updated June 2026, describes concrete reasons to check member
 
 These are documented geography changes and methodological cautions, not measured price or rent growth. They do not by themselves establish which metros qualify for the proposed window. [HUD, Calculation of Fair Market Rents, Section II, printed pages 2–3](https://www.huduser.gov/portal/datasets/fmr/fmr2027/FY27-Public-FMR-Methodology.pdf).
 
+### A named metro can include a partial-county exception
+
+HUD's June 2026 methodology describes the Sullivan City portion of Crawford County, Missouri as included in its St. Louis HUD Metro FMR Area. HUD notes that Census does not appear to follow this practice in its St. Louis MSA statistics. That qualification matters: this is an attributed statement from HUD, not my independent legal or Census-boundary determination. [HUD methodology, printed page 4](https://www.huduser.gov/portal/datasets/fmr/fmr2027/FY27-Public-FMR-Methodology.pdf#page=4).
+
+A similar name or identifier prefix cannot resolve this partial-area question. I will not discard a source component, truncate an identifier into an assumed whole county, or average subarea benchmarks merely to force matching coverage. The exact selected-vintage membership, boundaries and timing still need evidence; this example establishes no eligible St. Louis comparison or growth result.
+
 ## Explain the time alignment explicitly
 
 The primary window decision, recorded on 17 October 2026 before actual price-versus-rent comparisons, is five calendar years. This is an editorial research choice, not an FHFA or HUD recommendation, an optimal horizon or a forecast period.
@@ -77,6 +83,21 @@ For positive, finite and comparable endpoints, define the price growth factor as
 - Relative change in the starting price-index-to-rent-benchmark ratio, in percent: **100 × (H / R − 1)**.
 
 A percentage-point gap and a relative ratio change answer different questions. Neither the ratio HPI/FMR nor its relative change is a dollar price-to-rent level or a property yield. The prepared arithmetic keeps exact rational values separate from display rounding, so a tiny nonzero difference may display as zero.
+
+### A fictional example of the two answers
+
+Suppose a fictional price index rises from 100 to 150, while a fictional rent benchmark rises from 1,000 to 1,200 in the same currency and unit at both endpoints. These are teaching inputs, not observations for a real metro or selected study window.
+
+The price growth factor is 1.5 and the rent growth factor is 1.2:
+
+| Quantity | Fictional result |
+| --- | ---: |
+| Price index growth | 50% |
+| Rent benchmark change | 20% |
+| Growth gap | 30 percentage points |
+| Relative change in the starting index-to-benchmark ratio | 25% |
+
+The gap is **50 − 20 = 30 percentage points**. The relative ratio change is **100 × (1.5 / 1.2 − 1) = 25%**. Calling the 30-point gap a 30% relative ratio change would answer a different question incorrectly. Neither result supplies a dollar property price-to-rent level or investment yield, and correct arithmetic does not establish that actual source endpoints are comparable.
 
 ## Preserve exclusions and unknowns
 

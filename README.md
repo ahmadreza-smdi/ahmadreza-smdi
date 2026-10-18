@@ -41,6 +41,8 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 **Property Decision Data** brings together the studies and practical tools below. **Tech, explained** covers the plain-language technology explainers in [my writing](https://a-samadi.com/writing/).
 
+[Start with the question — resource guide (English TXT)](docs/reading/start-with-the-question.txt). Choose among seven published resource groups by the question you need to answer, with a key limit for each.
+
 [Selected public work — one-page PDF (English)](https://github.com/ahmadreza-smdi/ahmadreza-smdi/raw/refs/heads/main/docs/Ahmadreza-Samadi-Selected-Public-Work.pdf). Four selected resources with source links and method limits.
 
 - [Rent and ownership scenarios](https://a-samadi.com/studies/rent-own-2026/): illustrative cash-budget scenarios across 393 metros, using ACS 2024 and HUD FY 2027 inputs. Renter and owner populations differ; these are not observed investment returns.

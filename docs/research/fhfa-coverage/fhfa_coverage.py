@@ -58,8 +58,15 @@ def paired_rows(observations, years=5):
 def rebuild_csv(root=ROOT):
     root = Path(root)
     manifest = json.loads((root/'SOURCES.json').read_text(encoding='utf-8'))
-    entries = manifest['files']
-    if len(entries) != len(FILES) or {e['file'] for e in entries} != set(FILES):
+    entries = manifest.get('files') if isinstance(manifest, dict) else None
+    if (not isinstance(entries, list) or len(entries) != len(FILES)
+            or any(not isinstance(entry, dict)
+                   or not isinstance(entry.get('file'), str)
+                   or not isinstance(entry.get('sha256'), str)
+                   or len(entry['sha256']) != 64
+                   or any(c not in '0123456789abcdef' for c in entry['sha256'])
+                   for entry in entries)
+            or {entry['file'] for entry in entries} != set(FILES)):
         raise ValueError('Unexpected source manifest')
     # Read once, hash those bytes, then parse only private captured copies.
     raw = {name: (root/name).read_bytes() for name in FILES}
