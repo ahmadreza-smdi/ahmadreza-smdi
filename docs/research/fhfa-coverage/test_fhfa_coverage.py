@@ -3,6 +3,8 @@ from decimal import Decimal
 import csv
 import io
 import json
+import subprocess
+import sys
 import tempfile
 import unittest
 
@@ -63,6 +65,30 @@ class CoverageChecks(unittest.TestCase):
             (root/'SOURCES.json').write_text(json.dumps({'files':[{'file':'../unexpected'}]*4}))
             with self.assertRaisesRegex(ValueError,'Unexpected source manifest'):
                 rebuild_csv(root)
+
+    def test_malformed_manifest_cli_fails_cleanly_before_opening_raw_files(self):
+        valid = json.loads((ROOT/'SOURCES.json').read_text(encoding='utf-8'))
+        cases = [None, [], {}, {'files': None}, {'files': {}},
+                 {'files': [None]*4}, {'files': [{}]*4}]
+        for field, value in [('file', []), ('file', 12), ('sha256', None),
+                             ('sha256', 12), ('sha256', 'x'*64),
+                             ('sha256', '0'*63)]:
+            malformed = json.loads(json.dumps(valid))
+            malformed['files'][0][field] = value
+            cases.append(malformed)
+        for manifest in cases:
+            with self.subTest(manifest=manifest), tempfile.TemporaryDirectory() as folder:
+                root = Path(folder)
+                (root/'SOURCES.json').write_text(json.dumps(manifest), encoding='utf-8')
+                # No raw directory exists: a source-file error would mean the
+                # malformed manifest was used before it had been validated.
+                result = subprocess.run(
+                    [sys.executable, '-B', str(ROOT/'fhfa_coverage.py'),
+                     '--source-dir', str(root)], capture_output=True)
+                self.assertEqual(result.returncode, 2)
+                self.assertEqual(result.stdout, b'')
+                self.assertEqual(result.stderr.decode('utf-8').splitlines(),
+                                 ['Unexpected source manifest'])
 
 
 if __name__ == '__main__':

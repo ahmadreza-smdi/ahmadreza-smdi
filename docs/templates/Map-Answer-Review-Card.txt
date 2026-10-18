@@ -1,0 +1,79 @@
+MAP ANSWER REVIEW CARD
+Ahmadreza Samadi | Start with the decision.
+
+A copyable note for reviewing a question about a map. Adapted from:
+https://a-samadi.com/writing/geospatial-ai-map-answer-review.html
+
+This is a proposed editorial workflow, not a validated assessment or a test
+of a particular AI product. Completing it does not establish that a source
+is accurate, suitable for the decision, or sufficient to assess a property.
+
+BLANK CARD — COPY THIS SECTION
+
+Question and intended use:
+[What do you want to know, and what would you use the answer to decide?]
+
+AREA
+Question concerns: [point, building, parcel, neighbourhood or wider area]
+Evidence describes: [the area actually represented by the source]
+Match or unresolved difference: [explain; do not assume a match]
+
+PERIOD
+Relevant observation date or interval: [value and what it means, or unknown]
+File update date, if available: [label separately; do not substitute it]
+Remaining time question: [what the source does not establish]
+
+EVIDENCE
+Source and locator: [URL/file name plus page, table, layer or passage]
+Supplied statement: [what the source actually says]
+Calculation or interpretation: [what you or the model added, or none]
+
+UNRESOLVED
+Unsupported conclusion: [what cannot yet be concluded]
+Next check: [the specific evidence or clarification still needed]
+
+Keep missing information visible as unknown; do not fill it with a guess.
+Keep the source locator beside the statement for the next reader.
+
+END BLANK CARD
+
+FICTIONAL EXAMPLE — NO REAL SITE, DATASET OR ASSESSMENT
+
+Scenario: Imagine a map response about a made-up building site. The only
+supplied evidence is described as a city-level summary, with no observation
+period given. No actual file or AI response has been examined for this example.
+
+Question and intended use:
+Can the city-level statement describe conditions at this particular site?
+Use the card to identify what needs checking before interpreting the answer.
+
+AREA
+Question concerns: a made-up building site.
+Evidence describes: an imagined city-level summary.
+Match or unresolved difference: the scopes differ. The city statement alone
+does not establish a site-level conclusion.
+
+PERIOD
+Relevant observation date or interval: unknown in this imagined scenario.
+File update date: not supplied; it would be a separate label if available.
+Remaining time question: when were the described conditions observed?
+
+EVIDENCE
+Source and locator: fictional label "City summary A"; no real URL or file.
+Supplied statement: the summary describes the city, not this building site.
+Calculation or interpretation: scope comparison only; the city statement
+alone does not establish site conditions. No site measurement is calculated.
+
+UNRESOLVED
+Unsupported conclusion: any claim about the actual condition of the site.
+Next check: find evidence with a stated observation period and relevant
+geographic scope, then assess whether it supports the intended use. If those
+questions remain unanswered, retain them as unresolved.
+
+END FICTIONAL EXAMPLE
+
+Educational material, not a property assessment or financial advice.
+AI-assisted writing. No firsthand product test, company result, forecast or
+investment recommendation is claimed.
+
+About the author: https://a-samadi.com/about.html

@@ -19,6 +19,8 @@ python -m unittest discover -p test_fhfa_coverage.py -v
 
 The command reads the bundled `raw/` snapshots, checks their SHA-256 hashes in `SOURCES.json`, and writes CSV to standard output. It does not download newer data or change the source files. The tests compare the full result with `expected-coverage.csv`.
 
+If the source manifest has the wrong structure, filenames or hash format, the command stops with `Unexpected source manifest` and exit code 2 before opening the raw files. Restore the bundled `SOURCES.json` from the same snapshot; do not replace its hashes just to accept changed source files. A later `Source snapshot changed` message means a raw file differs from the recorded bytes.
+
 The source parser separates whole metros from metropolitan divisions using the bundled Census 2023 delineations. It combines 373 whole-metro series from the main FHFA CSV with 13 whole-metro series from the supplement, without averaging division indices. Those geography definitions do not establish historical HUD comparability.
 
 ## Read the counts
