@@ -1,0 +1,33 @@
+{
+  "scope": "Frozen official aggregateFHFAindices/fieldspecification and Census2023delineations only;no HUDinput or comparison",
+  "files": [
+    {
+      "file": "raw/fhfa-all-transactions-metro.csv",
+      "sha256": "07e3e98998806df830fd1ec141dbf234e66d66675258ecd705078028aafedee0",
+      "url": "https://www.fhfa.gov/hpi/download/quarterly_datasets/hpi_at_metro.csv",
+      "source_snapshot_used_on": "2026-10-17",
+      "acquisition_note": "FHFA snapshot acquired17October2026"
+    },
+    {
+      "file": "raw/fhfa-hpi-specifications.xlsx",
+      "sha256": "ba61d2a56f72b32fa54cc13202aa0b45c20055b0ee3eb7194316ccbb2c6be0db",
+      "url": "https://www.fhfa.gov/document/d/hpi/hpi_specifications.xlsx",
+      "source_snapshot_used_on": "2026-10-17",
+      "acquisition_note": "FHFA snapshot acquired17October2026"
+    },
+    {
+      "file": "raw/census-2023-cbsa-delineation.xlsx",
+      "sha256": "952c4b1e78acbb54e6ec9412434b7602fedacbf021736351a63c181bdb753629",
+      "url": "https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2023/delineation-files/list1_2023.xlsx",
+      "source_snapshot_used_on": "2026-10-17",
+      "acquisition_note": "Existing Census snapshot reused;not downloaded again"
+    },
+    {
+      "file": "raw/fhfa-whole-metros-with-divisions.xlsx",
+      "sha256": "4d434b9939bae371d2198be89b4426e4e03290b5d71073251cea4c26d6341293",
+      "url": "https://www.fhfa.gov/hpi/download/quarterly_datasets/hpi_at_multid_metro.xlsx",
+      "source_snapshot_used_on": "2026-10-17",
+      "acquisition_note": "FHFA snapshot acquired17October2026"
+    }
+  ]
+}

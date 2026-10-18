@@ -1,0 +1,7 @@
+raw/* -text
+expected-coverage.csv -text
+*.py text eol=lf
+*.md text eol=lf
+SOURCES.json text eol=lf
+CITATION.cff text eol=lf
+LICENSE-CODE.txt text eol=lf

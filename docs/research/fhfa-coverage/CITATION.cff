@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this coverage reproduction when using its code or diagnostic. Cite FHFA and Census separately for their inputs."
+title: "FHFA metro endpoint coverage reproduction"
+type: software
+authors:
+  - family-names: Samadi
+    given-names: Ahmadreza
+url: "https://github.com/ahmadreza-smdi/ahmadreza-smdi/tree/main/docs/research/fhfa-coverage"
+license: MIT
+abstract: "Reproduces frozen FHFA paired endpoint availability counts. No HUD matches, selected study window or price and rent growth results. The code licence does not cover the agency inputs."
