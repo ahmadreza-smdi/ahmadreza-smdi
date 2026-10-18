@@ -84,6 +84,21 @@ For positive, finite and comparable endpoints, define the price growth factor as
 
 A percentage-point gap and a relative ratio change answer different questions. Neither the ratio HPI/FMR nor its relative change is a dollar price-to-rent level or a property yield. The prepared arithmetic keeps exact rational values separate from display rounding, so a tiny nonzero difference may display as zero.
 
+### A fictional example of the two answers
+
+Suppose a fictional price index rises from 100 to 150, while a fictional rent benchmark rises from 1,000 to 1,200 in the same currency and unit at both endpoints. These are teaching inputs, not observations for a real metro or selected study window.
+
+The price growth factor is 1.5 and the rent growth factor is 1.2:
+
+| Quantity | Fictional result |
+| --- | ---: |
+| Price index growth | 50% |
+| Rent benchmark change | 20% |
+| Growth gap | 30 percentage points |
+| Relative change in the starting index-to-benchmark ratio | 25% |
+
+The gap is **50 − 20 = 30 percentage points**. The relative ratio change is **100 × (1.5 / 1.2 − 1) = 25%**. Calling the 30-point gap a 30% relative ratio change would answer a different question incorrectly. Neither result supplies a dollar property price-to-rent level or investment yield, and correct arithmetic does not establish that actual source endpoints are comparable.
+
 ## Preserve exclusions and unknowns
 
 Missing index cells, absent source rows, failed comparisons and unresolved evidence need separate labels and reasons. Missing or nonpositive endpoints cannot become valid growth factors. Unknowns will not be converted to zero or silently presented as successful matches.
