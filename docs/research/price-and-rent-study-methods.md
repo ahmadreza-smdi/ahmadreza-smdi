@@ -32,6 +32,12 @@ HUD's methodology, updated June 2026, describes concrete reasons to check member
 
 These are documented geography changes and methodological cautions, not measured price or rent growth. They do not by themselves establish which metros qualify for the proposed window. [HUD, Calculation of Fair Market Rents, Section II, printed pages 2–3](https://www.huduser.gov/portal/datasets/fmr/fmr2027/FY27-Public-FMR-Methodology.pdf).
 
+### A named metro can include a partial-county exception
+
+HUD's June 2026 methodology describes the Sullivan City portion of Crawford County, Missouri as included in its St. Louis HUD Metro FMR Area. HUD notes that Census does not appear to follow this practice in its St. Louis MSA statistics. That qualification matters: this is an attributed statement from HUD, not my independent legal or Census-boundary determination. [HUD methodology, printed page 4](https://www.huduser.gov/portal/datasets/fmr/fmr2027/FY27-Public-FMR-Methodology.pdf#page=4).
+
+A similar name or identifier prefix cannot resolve this partial-area question. I will not discard a source component, truncate an identifier into an assumed whole county, or average subarea benchmarks merely to force matching coverage. The exact selected-vintage membership, boundaries and timing still need evidence; this example establishes no eligible St. Louis comparison or growth result.
+
 ## Explain the time alignment explicitly
 
 The primary window decision, recorded on 17 October 2026 before actual price-versus-rent comparisons, is five calendar years. This is an editorial research choice, not an FHFA or HUD recommendation, an optimal horizon or a forecast period.
