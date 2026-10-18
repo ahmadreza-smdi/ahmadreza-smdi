@@ -97,3 +97,7 @@ The completed study is intended to publish its method and limits alongside a CSV
 This product uses FHFA data but is neither endorsed nor certified by FHFA.
 
 Educational research, not financial advice. AI-assisted preparation; no company or customer result is claimed. [More research and writing](https://a-samadi.com/topics/ai-real-estate.html).
+
+## Reproduce the FHFA coverage diagnostic
+
+The [frozen source companion](fhfa-coverage/) includes the four official source snapshots, a standard-library Python runner and the expected 186-row CSV. It rebuilds the paired availability counts above; it does not select the study window, match HUD geographies or calculate price and rent growth.
