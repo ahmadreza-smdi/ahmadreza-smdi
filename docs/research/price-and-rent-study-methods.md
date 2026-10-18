@@ -49,6 +49,24 @@ I will not automatically map a HUD fiscal year to an FHFA quarter or annual aver
 
 No annualization or compound annual growth rate is specified at this stage.
 
+## Count the same metros at both endpoints
+
+Endpoint coverage is a paired-data question. If A contains metros with an observed index at the start and B contains metros with an observed index at the end, the usable price-endpoint count is |A ∩ B|. The smaller of |A| and |B| is only an upper bound; the two groups need not contain the same metros.
+
+A diagnostic prepared on 18 October 2026 from my frozen FHFA inventory covers 386 whole-metro series and 186 same-quarter pairs exactly five calendar years apart, within 1975Q1–2026Q2. In three pairs, the smaller separate endpoint count exceeds the count observed at both endpoints:
+
+| Start | End | Observed at start | Observed at end | Smaller separate count | Observed at both |
+| --- | --- | ---: | ---: | ---: | ---: |
+| 1976Q4 | 1981Q4 | 40 | 140 | 40 | 39 |
+| 1979Q3 | 1984Q3 | 136 | 201 | 136 | 135 |
+| 1990Q1 | 1995Q1 | 339 | 382 | 339 | 338 |
+
+For example, the first pair has one metro with an observed start index but a blank end index, and 101 with a blank start index but an observed end index. Those records cannot be combined into a complete pair. The diagnostic distinguishes an observed value, an existing row with a missing index, and an absent row.
+
+These are coverage counts in a frozen prepared inventory, not growth results or a newly selected study window. The inventory combines 373 whole-metro series from the main source and 13 whole-metro series from the supplement; metropolitan divisions are excluded. It does not prove that any corresponding HUD benchmark has comparable dates, boundaries or rent measures. Availability must be checked for each metro after selecting an eligible common window under the policy above.
+
+Source: FHFA House Price Index® (All-Transactions, not seasonally adjusted, nominal). The [main CSV](https://www.fhfa.gov/hpi/download/quarterly_datasets/hpi_at_metro.csv) and [supplemental workbook](https://www.fhfa.gov/hpi/download/quarterly_datasets/hpi_at_multid_metro.xlsx) were acquired on 17 October 2026; those download URLs may subsequently serve revised data. The frozen raw CSV SHA-256 is `07e3e98998806df830fd1ec141dbf234e66d66675258ecd705078028aafedee0`; the supplemental workbook SHA-256 is `4d434b9939bae371d2198be89b4426e4e03290b5d71073251cea4c26d6341293`. These counts describe that snapshot, not every FHFA vintage. This product uses FHFA data but is neither endorsed nor certified by FHFA.
+
 ## Keep percentage points and relative changes separate
 
 For positive, finite and comparable endpoints, define the price growth factor as **H = HPI end / HPI start**, and the rent growth factor as **R = FMR end / FMR start**.
