@@ -1,0 +1,17 @@
+DECISION-FIRST AI TEXT KIT | Ahmadreza Samadi
+
+1. Extract the entire ZIP. Open Decision-First-AI-Blank.txt in any text editor.
+2. Save a private working copy; fill the ten fields below their prompts.
+3. The separate Fictional-Example file illustrates the existing card.
+   Do not copy its invented answers into actual experiment records.
+4. Read Reading-Notes.txt before using or adapting the example.
+
+No Python, PDF editor, account or installation is needed to edit these texts.
+No experiment has been run and no company/customer results are represented.
+Unknown outcomes are not zero outcomes. Keep completed records private.
+This package adds a plain-text format, not a new method or validated test.
+It does not change or replace the existing fillable PDF or interactive guide.
+Prepared with AI assistance. No new blanket reuse licence is asserted.
+
+Author: https://a-samadi.com/about.html
+Interactive guide: https://a-samadi.com/tools/before-you-build-ai.html

@@ -1,0 +1,72 @@
+DECISION-FIRST AI EXPERIMENT
+Ahmadreza Samadi | Start with the decision.
+https://a-samadi.com/about.html
+Companion to https://a-samadi.com/tools/before-you-build-ai.html
+
+FICTIONAL PLANNING EXAMPLE — NO EXPERIMENT WAS RUN
+All answers below are copied from the existing fictional card.
+The six-report plan is illustrative, not a sample-size recommendation.
+Read Reading-Notes.txt for source-use and interpretation limits.
+
+Save a private copy and type below each prompt. Keep unknowns explicit.
+This text file sends nothing and contains no executable code. Your editor
+and storage settings determine where your saved notes go.
+Proposed planning aid, not a validated assessment. Prepared with AI assistance.
+
+Who uses the result?
+Fictional researcher reviewing public sources
+
+Experiment ID / date
+FICTIONAL PLAN / 17 Oct 2026
+
+1. Decision
+What choice should the output help someone make?
+Trial AI for private summaries
+of public housing reports?
+Decide on a supervised pilot only.
+
+2. Action and fallback
+What follows the decision? What stays with a person?
+A person opens sources and checks every claim.
+Unverifiable claims return to manual work.
+Nothing publishes automatically.
+
+3. Evidence and gaps
+Sources, dates, permitted use and what remains unknown.
+Fictional setup: public reports; permitted use unverified.
+Record publisher, URL, date and page before starting.
+Actual sources and coverage are not yet selected.
+
+4. Current baseline
+How is this done without AI?
+Read reports and write
+summaries manually.
+Measure effort first.
+
+5. Acceptance criterion
+What counts as an accepted result?
+All claims source-supported;
+no material caveat omitted.
+Reviewer accepts or rejects.
+
+6. Review and stop rules
+Who checks errors? When must the experiment stop or hand back?
+Researcher checks every output before use.
+Stop for confidential input or unclear reuse rights.
+Reject unverifiable claims; log failures and retries.
+
+7. Test before acting
+Cases, comparison, time and full costs.
+Plan 6 reports; same brief.
+Log attempts, effort, costs.
+No pilot run yet.
+
+8. Observed result / next decision
+Record evidence; unknown stays unknown.
+Unknown: no pilot run.
+No savings or quality data.
+Next: select eligible sources.
+
+Keep original sources, acceptance decisions, failures and full cost records
+with your private experiment. This card does not establish fairness,
+correctness, savings or permission to use a source.

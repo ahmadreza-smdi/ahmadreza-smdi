@@ -1,0 +1,53 @@
+DECISION-FIRST AI EXPERIMENT
+Ahmadreza Samadi | Start with the decision.
+https://a-samadi.com/about.html
+Companion to https://a-samadi.com/tools/before-you-build-ai.html
+
+BLANK TEMPLATE — NO DEFAULT ANSWERS OR MEASUREMENTS
+
+Save a private copy and type below each prompt. Keep unknowns explicit.
+This text file sends nothing and contains no executable code. Your editor
+and storage settings determine where your saved notes go.
+Proposed planning aid, not a validated assessment. Prepared with AI assistance.
+
+Who uses the result?
+
+
+Experiment ID / date
+
+
+1. Decision
+What choice should the output help someone make?
+
+
+2. Action and fallback
+What follows the decision? What stays with a person?
+
+
+3. Evidence and gaps
+Sources, dates, permitted use and what remains unknown.
+
+
+4. Current baseline
+How is this done without AI?
+
+
+5. Acceptance criterion
+What counts as an accepted result?
+
+
+6. Review and stop rules
+Who checks errors? When must the experiment stop or hand back?
+
+
+7. Test before acting
+Cases, comparison, time and full costs.
+
+
+8. Observed result / next decision
+Record evidence; unknown stays unknown.
+
+
+Keep original sources, acceptance decisions, failures and full cost records
+with your private experiment. This card does not establish fairness,
+correctness, savings or permission to use a source.
