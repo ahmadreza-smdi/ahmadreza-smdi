@@ -41,7 +41,7 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 **Property Decision Data** brings together the studies and practical tools below. **Tech, explained** covers the plain-language technology explainers in [my writing](https://a-samadi.com/writing/).
 
-[Start with the question — resource guide (English TXT)](docs/reading/start-with-the-question.txt). Choose among seven published resource groups by the question you need to answer, with a key limit for each.
+[Start with the question — resource guide (English TXT)](docs/reading/start-with-the-question.txt). Choose among eight published resource groups by the question you need to answer, with a key limit for each.
 
 [Selected public work — one-page PDF (English)](https://github.com/ahmadreza-smdi/ahmadreza-smdi/raw/refs/heads/main/docs/Ahmadreza-Samadi-Selected-Public-Work.pdf). Four selected resources with source links and method limits.
 
@@ -51,6 +51,8 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 - [AI cost per verified result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
 - [AI workflow cost ledger](https://github.com/ahmadreza-smdi/ai-workflow-cost): an offline Python tool that includes retries, failed attempts and review costs, with explicit acceptance criteria and unknown-cost checks. [Three fictional worked examples (ZIP)](https://github.com/ahmadreza-smdi/ai-workflow-cost/releases/download/v0.1.2/AI-Cost-Worked-Examples.zip) cover paid failures, no accepted results and explicitly known zero costs.
 - [Jev: an AI decision model](https://a-samadi.com/writing/jev-ai-decision-model.html): what typed decisions offer and how I would test them.
+
+- [Evidence Note](https://github.com/ahmadreza-smdi/evidence-note): an offline editor for recording a claim, its source and an unresolved decision. Export a note as HTML, Markdown or JSON, or restore a saved JSON note. Recording a source does not verify the claim. [Download v0.1.0 (ZIP)](https://github.com/ahmadreza-smdi/evidence-note/releases/download/v0.1.0/evidence-note-builder.zip).
 
 Research in progress: [Price growth and rent benchmarks — working methods](https://github.com/ahmadreza-smdi/ahmadreza-smdi/blob/main/docs/research/price-and-rent-study-methods.md). The primary duration is five calendar years; exact dates, eligible metros and comparison results remain unresolved.
 

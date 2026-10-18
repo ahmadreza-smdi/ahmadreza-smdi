@@ -59,6 +59,15 @@ separate property-valuation service before interpreting a number.
 Limit: the guide retains its historical methodology and reference periods. It is
 educational analysis, not a fresh market report, an appraisal or a legal ruling.
 
+8. How do I keep a claim, source and unresolved decision together?
+Open: Evidence Note, v0.1.0
+https://github.com/ahmadreza-smdi/evidence-note/releases/tag/v0.1.0
+Use the offline editor to record a claim, source details and an unresolved
+decision; export HTML, Markdown or JSON, or restore a saved JSON note.
+Limit: you record the source relationship yourself. The editor does not check
+whether a claim is true or a source is sufficient. Reloading clears unsaved fields;
+export your note before closing or reloading. Its example is explicitly fictional.
+
 ABOUT THIS GUIDE
 By Ahmadreza Samadi, a Dubai-based technology entrepreneur.
 Biography: https://a-samadi.com/about.html
