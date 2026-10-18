@@ -31,6 +31,8 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 ## Selected tools and writing
 
+[Start with the question — resource guide (English TXT)](docs/reading/start-with-the-question.txt). Choose among seven published resource groups by the question you need to answer, with a key limit for each.
+
 [Selected public work — one-page PDF (English)](https://github.com/ahmadreza-smdi/ahmadreza-smdi/raw/refs/heads/main/docs/Ahmadreza-Samadi-Selected-Public-Work.pdf). Four selected resources with source links and method limits.
 
 - [Metro rent burden: ACS 2024](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/tag/v1.1.1): reproducible point estimates for 386 US metropolitan areas, with raw Census data, CSV, chart and citation metadata. Not-computed units are excluded from the percentage denominator and reported separately; derived percentage margins of error are not calculated. [Excel companion](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/download/v1.1.0/Metro-Rent-Burden-2024.xlsx) contains the same data in a filterable workbook.
