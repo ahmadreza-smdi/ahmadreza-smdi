@@ -1,11 +1,17 @@
 # Ahmadreza Samadi
 
+Also known as **Ahmad Samadi**. In Persian: **احمدرضا صمدی**; short name: **احمد صمدی**.
+
+<a href="https://a-samadi.com/about.html"><img src="docs/images/ahmadreza-samadi-portrait.jpg" alt="Ahmadreza Samadi (Ahmad Samadi) — احمدرضا صمدی / احمد صمدی" width="180"></a>
+
 Technology entrepreneur · Co-Founder & Technical Lead at [Appraiva](https://appraiva.com/) · Co-Founder & CEO at [Royal Abraj Group](https://royalabrajgroup.com/en) · Dubai, United Arab Emirates  
 I build AI that helps people make better property decisions, and I run a property business in Dubai, so I know where the AI must stop.
 
 **Start with the decision.**
 
 ## Signature ideas
+
+[Definitions, diagrams and practical checklists](https://a-samadi.com/ideas.html) for the three ideas below.
 
 **Start with the Decision** is the series for these ideas and essays:
 
@@ -39,20 +45,20 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 
 ## Selected tools and writing
 
-**Property Decision Data** brings together the studies and practical tools below. **Tech, explained** covers the plain-language technology explainers in [my writing](https://a-samadi.com/writing/).
+[**Property Decision Data**](https://a-samadi.com/studies/) brings together the studies and practical tools below. **Tech, explained** covers the plain-language technology explainers in [my writing](https://a-samadi.com/writing/).
 
 [Start with the question — resource guide (English TXT)](docs/reading/start-with-the-question.txt). Choose among eight published resource groups by the question you need to answer, with a key limit for each.
 
 [Selected public work — one-page PDF (English)](https://github.com/ahmadreza-smdi/ahmadreza-smdi/raw/refs/heads/main/docs/Ahmadreza-Samadi-Selected-Public-Work.pdf). Four selected resources with source links and method limits.
 
 - [Rent and ownership scenarios](https://a-samadi.com/studies/rent-own-2026/): illustrative cash-budget scenarios across 393 metros, using ACS 2024 and HUD FY 2027 inputs. Renter and owner populations differ; these are not observed investment returns.
-- [Metro rent burden: ACS 2024](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/tag/v1.1.1): reproducible point estimates for 386 US metropolitan areas, with raw Census data, CSV, chart and citation metadata. Not-computed units are excluded from the percentage denominator and reported separately; derived percentage margins of error are not calculated. [Excel companion](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/download/v1.1.0/Metro-Rent-Burden-2024.xlsx) contains the same data in a filterable workbook.
+- [Metro rent burden: ACS 2024](https://a-samadi.com/studies/rent-burden/): reproducible point estimates for 386 US metropolitan areas, with raw Census data, CSV, chart and citation metadata. Not-computed units are excluded from the percentage denominator and reported separately; derived percentage margins of error are not calculated. [Reproducible source release](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/tag/v1.1.1). [Excel companion](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/download/v1.1.0/Metro-Rent-Burden-2024.xlsx) contains the same data in a filterable workbook.
 - [Before You Build the AI](https://a-samadi.com/tools/before-you-build-ai.html): an interactive field guide for defining a useful decision, reviewing risks and planning a first test.
 - [AI cost per verified result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
 - [AI workflow cost ledger](https://github.com/ahmadreza-smdi/ai-workflow-cost): an offline Python tool that includes retries, failed attempts and review costs, with explicit acceptance criteria and unknown-cost checks. [Three fictional worked examples (ZIP)](https://github.com/ahmadreza-smdi/ai-workflow-cost/releases/download/v0.1.2/AI-Cost-Worked-Examples.zip) cover paid failures, no accepted results and explicitly known zero costs.
 - [Jev: an AI decision model](https://a-samadi.com/writing/jev-ai-decision-model.html): what typed decisions offer and how I would test them.
 
-- [Evidence Note](https://github.com/ahmadreza-smdi/evidence-note): an offline editor for recording a claim, its source and an unresolved decision. Export a note as HTML, Markdown or JSON, or restore a saved JSON note. Recording a source does not verify the claim. [Download v0.1.0 (ZIP)](https://github.com/ahmadreza-smdi/evidence-note/releases/download/v0.1.0/evidence-note-builder.zip).
+- [Evidence Note](https://github.com/ahmadreza-smdi/evidence-note): an offline editor for recording a claim, its source and an unresolved decision. Export a note as HTML, Markdown or JSON, or restore a saved JSON note. Recording a source does not verify the claim. [Download v0.1.1 (ZIP)](https://github.com/ahmadreza-smdi/evidence-note/releases/download/v0.1.1/evidence-note-builder.zip).
 
 Research in progress: [Price growth and rent benchmarks — working methods](https://github.com/ahmadreza-smdi/ahmadreza-smdi/blob/main/docs/research/price-and-rent-study-methods.md). The primary duration is five calendar years; exact dates, eligible metros and comparison results remain unresolved.
 
