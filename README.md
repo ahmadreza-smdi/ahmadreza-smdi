@@ -1,11 +1,12 @@
 # Ahmadreza Samadi
 
+Ahmadreza Samadi is a Dubai-based technology entrepreneur, Co-Founder & Technical Lead of Appraiva, which builds AI real estate intelligence, and Co-Founder & CEO of Royal Abraj Group.
+
+I build AI that helps people make better property decisions, and I run a property business in Dubai, so I know where the AI must stop.
+
 Also known as **Ahmad Samadi**. In Persian: **احمدرضا صمدی**; short name: **احمد صمدی**.
 
 <a href="https://a-samadi.com/about.html"><img src="docs/images/ahmadreza-samadi-portrait.jpg" alt="Ahmadreza Samadi (Ahmad Samadi) — احمدرضا صمدی / احمد صمدی" width="180"></a>
-
-Technology entrepreneur · Co-Founder & Technical Lead at [Appraiva](https://appraiva.com/) · Co-Founder & CEO at [Royal Abraj Group](https://royalabrajgroup.com/en) · Dubai, United Arab Emirates  
-I build AI that helps people make better property decisions, and I run a property business in Dubai, so I know where the AI must stop.
 
 **Start with the decision.**
 
@@ -21,26 +22,21 @@ I build AI that helps people make better property decisions, and I run a propert
 
 ## Current Focus
 
-I work remotely as Co-Founder & Technical Lead at Appraiva, a US-based company in Cleveland, Ohio, building an AI-driven real estate intelligence platform for investors and developers. At Royal Abraj Group, I lead digital strategy across websites, CRM workflows, customer tools, and internal operations for a Dubai-based business spanning property brokerage and documents-clearing services.
+Co-Founder & Technical Lead, Appraiva. Appraiva is a US company in Cleveland, Ohio; I work remotely from Dubai. It builds AI tools that help real estate investors and developers find distressed and off-market properties through imagery analysis and enriched property data.
 
-The work spans:
-
-- Product architecture for AI-first real estate workflows
-- Data systems for property discovery, enrichment, search, and opportunity analysis
-- AI workflows that convert property signals into decision-support systems
-- Cloud infrastructure and backend systems for practical business operations
-- Customer discovery and product execution across technical and business priorities
+Co-Founder & CEO, Royal Abraj Group, Dubai. The group covers property brokerage and documents-clearing services; I lead its digital strategy and technology.
 
 ## Background
 
-Selected case studies below describe my role in company and client projects whose source code is private.
-
-Before Appraiva, I built and led systems across real estate, nonprofit CRM, online education, telecom analytics, and applied machine learning, including Azure data platforms, ETL systems, predictive customer segmentation, GenAI workflows, and cloud-backed product infrastructure.
+- Enterprise data engineering and machine learning.
+- Azure data infrastructure for CRM migration and analytics at Oxfam Novib.
+- Predictive customer segmentation at MCI.
+- Education: Shahid Beheshti University.
 
 ## Selected work
 
 - [My work at Appraiva: AI real estate intelligence](https://a-samadi.com/work/appraiva.html)
-- [My work at Royal Abraj Group: digital strategy and operations](https://a-samadi.com/work/royal-abraj.html)
+- [My work at Royal Abraj Group: digital strategy and technology](https://a-samadi.com/work/royal-abraj.html)
 - [Oxfam Novib: a data foundation for CRM and analytics](https://a-samadi.com/work/oxfam-novib.html)
 
 ## Selected tools and writing
@@ -54,7 +50,7 @@ Before Appraiva, I built and led systems across real estate, nonprofit CRM, onli
 - [Rent and ownership scenarios](https://a-samadi.com/studies/rent-own-2026/): illustrative cash-budget scenarios across 393 metros, using ACS 2024 and HUD FY 2027 inputs. Renter and owner populations differ; these are not observed investment returns.
 - [Metro rent burden: ACS 2024](https://a-samadi.com/studies/rent-burden/): reproducible point estimates for 386 US metropolitan areas, with raw Census data, CSV, chart and citation metadata. Not-computed units are excluded from the percentage denominator and reported separately; derived percentage margins of error are not calculated. [Reproducible source release](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/tag/v1.1.1). [Excel companion](https://github.com/ahmadreza-smdi/metro-rent-burden/releases/download/v1.1.0/Metro-Rent-Burden-2024.xlsx) contains the same data in a filterable workbook.
 - [Before You Build the AI](https://a-samadi.com/tools/before-you-build-ai.html): an interactive field guide for defining a useful decision, reviewing risks and planning a first test.
-- [AI cost per verified result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
+- [AI cost per accepted result](https://a-samadi.com/writing/ai-cost-per-verified-result.html): evaluating a workflow beyond its model-token price.
 - [AI workflow cost ledger](https://github.com/ahmadreza-smdi/ai-workflow-cost): an offline Python tool that includes retries, failed attempts and review costs, with explicit acceptance criteria and unknown-cost checks. [Three fictional worked examples (ZIP)](https://github.com/ahmadreza-smdi/ai-workflow-cost/releases/download/v0.1.2/AI-Cost-Worked-Examples.zip) cover paid failures, no accepted results and explicitly known zero costs.
 - [Jev: an AI decision model](https://a-samadi.com/writing/jev-ai-decision-model.html): what typed decisions offer and how I would test them.
 
