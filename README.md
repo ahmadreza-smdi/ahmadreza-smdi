@@ -72,3 +72,15 @@ Research in progress: [Price growth and rent benchmarks — working methods](htt
 - Crunchbase: [Ahmadreza Samadi](https://www.crunchbase.com/person/ahmadreza-samadi)
 
 In Persian: [احمدرضا صمدی](https://a-samadi.com/fa/about.html).
+
+## About this repository and citation
+
+This profile is a reading guide for people evaluating Ahmadreza Samadi’s public work. By [Ahmadreza Samadi](https://a-samadi.com/about.html).
+
+To cite this profile, use: Samadi, Ahmadreza. “Ahmadreza Samadi — public work and professional profile.” GitHub, `ahmadreza-smdi/ahmadreza-smdi`, accessed YYYY-MM-DD, with the exact commit permalink used. Cite individual studies and software using their own citation files and source-data references.
+
+Original biography, selected portrait and AS mark are not assigned a blanket reuse licence; see [LICENSE](LICENSE). Existing research-code licences retain their stated scope.
+
+![Public valuation-range checker with an explicitly fictional example](docs/valuation-range-preview.png)
+
+The tool describes entered estimates; it does not verify a property value. [Open the valuation range checker](https://a-samadi.com/tools/valuation-range.html).
