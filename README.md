@@ -60,6 +60,7 @@ Research in progress: [Price growth and rent benchmarks — working methods](htt
 
 ## Links
 
+- X: [@AhmadrezaSmdi](https://x.com/AhmadrezaSmdi)
 - Instagram: [@ahmadreza.samadi](https://www.instagram.com/ahmadreza.samadi/)
 - Website: [a-samadi.com](https://a-samadi.com/)
 - Newsletter: [Start with the Decision](https://www.linkedin.com/newsletters/7516204575893393408/)
