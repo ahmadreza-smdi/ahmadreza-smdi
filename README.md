@@ -2,7 +2,7 @@
 
 Ahmadreza Samadi is a Dubai-based technology entrepreneur, Co-Founder & Technical Lead of Appraiva, which builds AI real estate intelligence, and Co-Founder & CEO of Royal Abraj Group.
 
-I build AI that helps people make better property decisions, and I run a property business in Dubai, so I know where the AI must stop.
+I build AI, and I run a business that has to live with it. I write about where AI earns its place in a business: the decision it improves, where a person must check it, and what it really costs.
 
 Also known as **Ahmad Samadi**. In Persian: **احمدرضا صمدی**; short name: **احمد صمدی**.
 
@@ -60,10 +60,8 @@ Research in progress: [Price growth and rent benchmarks — working methods](htt
 
 ## Links
 
-- X: [@AhmadrezaSmdi](https://x.com/AhmadrezaSmdi)
 - Instagram: [@ahmadreza.samadi](https://www.instagram.com/ahmadreza.samadi/)
 - Website: [a-samadi.com](https://a-samadi.com/)
-- Newsletter: [Start with the Decision](https://www.linkedin.com/newsletters/7516204575893393408/)
 - [Writing on AI products, data and PropTech](https://a-samadi.com/writing/)
 - Biography: [English](https://a-samadi.com/about.html) · [فارسی](https://a-samadi.com/fa/about.html) · [العربية](https://a-samadi.com/ar/about.html)
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
