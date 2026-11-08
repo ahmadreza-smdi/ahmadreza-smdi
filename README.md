@@ -4,9 +4,9 @@ Ahmadreza Samadi is a Dubai-based technology entrepreneur, Co-Founder & Technica
 
 I build AI, and I run a business that has to live with it. I write about where AI earns its place in a business: the decision it improves, where a person must check it, and what it really costs.
 
-Also known as **Ahmad Samadi**. In Persian: **احمدرضا صمدی**; short name: **احمد صمدی**.
+Also known as **Ahmad Samadi**.
 
-<a href="https://a-samadi.com/about.html"><img src="docs/images/ahmadreza-samadi-portrait.jpg" alt="Ahmadreza Samadi (Ahmad Samadi) — احمدرضا صمدی / احمد صمدی" width="180"></a>
+<a href="https://a-samadi.com/about.html"><img src="docs/images/ahmadreza-samadi-portrait.jpg" alt="Ahmadreza Samadi (Ahmad Samadi)" width="180"></a>
 
 **Start with the decision.**
 
@@ -62,15 +62,15 @@ Research in progress: [Price growth and rent benchmarks — working methods](htt
 
 - Instagram: [@ahmadreza.samadi](https://www.instagram.com/ahmadreza.samadi/)
 - Website: [a-samadi.com](https://a-samadi.com/)
-- [Writing on AI products, data and PropTech](https://a-samadi.com/writing/)
-- Biography: [English](https://a-samadi.com/about.html) · [فارسی](https://a-samadi.com/fa/about.html) · [العربية](https://a-samadi.com/ar/about.html)
+- [Writing on AI products and business decisions](https://a-samadi.com/writing/)
+- [English biography](https://a-samadi.com/about.html) · [Persian biography](https://a-samadi.com/fa/about.html) · [Arabic biography](https://a-samadi.com/ar/about.html)
 - LinkedIn: [linkedin.com/in/ahmadreza-samadi](https://www.linkedin.com/in/ahmadreza-samadi/)
 - Appraiva: [appraiva.com](https://appraiva.com/)
 - Royal Abraj Group: [royalabrajgroup.com](https://royalabrajgroup.com/en)
 - YouTube: [@ahmadreza-samadi](https://www.youtube.com/@ahmadreza-samadi)
 - Crunchbase: [Ahmadreza Samadi](https://www.crunchbase.com/person/ahmadreza-samadi)
 
-In Persian: [احمدرضا صمدی](https://a-samadi.com/fa/about.html).
+[Persian biography](https://a-samadi.com/fa/about.html).
 
 ## About this repository and citation
 
